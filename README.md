@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pre-final year B.Tech student | Aspiring Software Developer<br>💻 Building with Python, Flask, JavaScript & Firebase<br>🤖 Passionate about AI-powered apps & full-stack development<br>🚀 Projects: Mark AI Voice Assistant · Smart Parking System · Student Management System<br>📜 Certified in Data Science & Oracle AI Foundations<br>🌐 Open to collaborations, internships & exciting builds
+🎓 Pre-final year B.Tech student | Aspiring Software Developer<br>💻 Building with Python, Flask, JavaScript, Typescript & Firebase<br>🤖 Passionate about AI-powered apps & full-stack development<br>🚀 Projects: EstiMate : cost and resource estimator · Smart Parking System · Student Management System<br>📜 Certified in Data Science & Oracle AI Foundations<br>🌐 Open to collaborations, internships & exciting builds
 
 
 ## 🌐 Socials:
